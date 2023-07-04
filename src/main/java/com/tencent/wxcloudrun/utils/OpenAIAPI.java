@@ -23,11 +23,11 @@ public class OpenAIAPI {
     /**
      * 聊天端点
      */
-    String chatEndpoint = "https://api.openai.com/v1/chat/completions";
+    String chatEndpoint = "https://chat.lxlcloud.com";
     /**
      * api密匙
      */
-    String apiKey = "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";
+    String apiKey = "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";
 
 
     /**
